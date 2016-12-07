@@ -1715,21 +1715,24 @@ msgstr ""
 
 #: plugins/admin-bucket-pool.php:139
 msgid "Creating Bucket Pools"
-msgstr ""
+msgstr "Anlegen von Ablagensammlungen"
 
 #: plugins/admin-bucket-pool.php:141
 msgid "before continuing."
-msgstr ""
+msgstr "vor dem Fortfahren"
 
 #: plugins/admin-bucket-pool.php:142
 msgid ""
 " It will explain why you should create a new bucketpool rather than edit an "
 "old one that has already recorded results."
 msgstr ""
+"Hier wird erkl&auml;rt, unter welchen Umst&auml;nden eine neue "
+"Ablagensammlung sinnvoller ist, als die Aktualisierung eines "
+"bereits aufgezeichneten Ergebnisses."
 
 #: plugins/admin-bucket-pool.php:144
 msgid "Steps to modify a bucketpool:"
-msgstr ""
+msgstr "Schritte zur Ver&auml;nderung einer Ablagensammlung:"
 
 #: plugins/admin-bucket-pool.php:147
 msgid ""
